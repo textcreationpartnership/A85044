@@ -1,0 +1,350 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new proclamation: or a warning peece against all blasphemers, ranters, Quakers, and shakers; both men and women: who goe up and down teaching, that imbracing ungodlinesse, and worldly lusts, they should live unsoberly, unrighteously, ungodly.</title>
+            <author>I. F.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85044</idno>
+            <idno type="STC">Wing F25</idno>
+            <idno type="STC">Thomason E708_11</idno>
+            <idno type="STC">ESTC R207154</idno>
+            <idno type="EEBO-CITATION">99866225</idno>
+            <idno type="PROQUEST">99866225</idno>
+            <idno type="VID">118490</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85044)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118490)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 109:E708[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new proclamation: or a warning peece against all blasphemers, ranters, Quakers, and shakers; both men and women: who goe up and down teaching, that imbracing ungodlinesse, and worldly lusts, they should live unsoberly, unrighteously, ungodly.</title>
+                  <author>I. F.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for M.S. and are to be sold at the Blue Bible in Green Arbour,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p.7: I.F.</note>
+                  <note>Partly in verse.</note>
+                  <note>Annotation on Thomason copy: "August.2.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Controversial literature --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118490:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 46 -->
+            <p>A NEW PROCLAMATION: OR A WARNING PEECE AGAINST ALL <hi>Blaſphemers, Ranters, Quakers,</hi> and <hi>Shakers;</hi> both <hi>Men</hi> and <hi>Women:</hi> Who goe up and down teaching, That imbracing <hi>ungodlineſſe,</hi> and worldly <hi>luſts,</hi> they ſhould live <hi>unſoberly, unrighteouſly, ungodly.</hi>
+            </p>
+            <q>
+               <bibl>PSAL. 50.19.</bibl>
+               <p>Thou giveſt thy Mouth to evill, and thy Tongue frameth deceit.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>M. S.</hi> and are to be ſold at the <hi>Blue Bible</hi> in <hi>Green Arbour,</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:118490:2"/>
+            <!-- PDF PAGE 47 -->
+            <pb n="3" facs="tcp:118490:2"/>
+            <!-- PDF PAGE 47 -->
+            <head>A Word to the RANTERS, who goe up and down teaching men and women, that imbracing ungodlineſs, and worldly luſts, they ſhould live unſoberly, unrighteouſly, ungodly in this preſent World.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">O</seg> Land! how doth thy Church to ruine run,</l>
+               <l>By <hi>Schiſmes</hi> broken, and by <hi>Sects</hi> undone!</l>
+               <l>O how they ſwarm! no age could ever tell</l>
+               <l>A brood too monſtrous for their parallell.</l>
+               <l>Freedome of <hi>conſcience!</hi> rid us from this thrall</l>
+               <l>Of ſpirit, and the yoke <hi>Epiſcopall;</hi>
+               </l>
+               <l>This once was all the cry, and this we ſee</l>
+               <l>As quickly turn'd to <hi>fleſhly liberty.</hi>
+               </l>
+               <l>Each now will pleaſe himſelf, and things deviſe</l>
+               <l>
+                  <hi>Right</hi> in his <hi>own, wrong</hi> in his <hi>Makers</hi> eyes.</l>
+               <l>Things 'tis a ſhame to ſpeak, things that do call</l>
+               <l>For <hi>ruine,</hi> or <hi>repentance generaell:</hi>
+               </l>
+               <pb facs="tcp:118490:3"/>
+               <!-- PDF PAGE 48 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:118490:3"/>
+               <!-- PDF PAGE 48 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <l>
+                  <pb n="4" facs="tcp:118490:4"/>
+                  <!-- PDF PAGE 49 -->
+If we our ſins like <hi>Sodome</hi> do <hi>declare,</hi>
+               </l>
+               <l>Without repentance let's expect their <hi>fare.</hi>
+               </l>
+               <l>Speak out ye Jewes, what loſſe your land befell</l>
+               <l>By ſuffring of <hi>one</hi> curſed <hi>Jezabel,</hi>
+               </l>
+               <l>By winking at, if nor approving much</l>
+               <l>Her wicked waits; we have an <hi>hundred</hi> ſuch,</l>
+               <l>Who act her ſins, and to encreaſe the tale</l>
+               <l>Have furn<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh'd out and rigg'd a <hi>thouſand ſail</hi>
+               </l>
+               <l>Of new, unheard of ſins, that near before</l>
+               <l>Durſt venture landing on our <hi>Britiſh ſhore:</hi>
+               </l>
+               <l>Oh, that a <hi>man</hi> unto himſelf dare's tie</l>
+               <l>The title of <hi>eternall Majeſty,</hi>
+               </l>
+               <l>And ſay hee's God! this I a ſin may call</l>
+               <l>The <hi>Devill</hi> ne'er was chargeable withall.</l>
+               <l>Oh, that a <hi>worme,</hi> a <hi>man</hi> ſhould dare t'advance</l>
+               <l>Himſelf above a <hi>heavenly ordinance!</hi>
+               </l>
+               <l>What? equall with thy <hi>Maker?</hi> none but he</l>
+               <l>Can claim ſuch <hi>Independent liberty;</hi>
+               </l>
+               <l>The <hi>Devill</hi> himſelf dares not, but ſtoops and ſtands,</l>
+               <l>Riſeth, and goes as <hi>Heavens King</hi> commands.</l>
+               <l>Oh, that a man ſhould offer to caſt off</l>
+               <l>That <hi>yoke</hi> that Chriſt cals <hi>eaſie,</hi> make a ſcoffe</l>
+               <l>At Goſpell precepts, and put on the face</l>
+               <l>To make a <hi>ſing-ſong</hi> at the means of grace!</l>
+               <l>Were ſuch conditions to the Devils ſent,</l>
+               <l>Would they reject them? ſure they would repent.</l>
+               <l>Oh, that a man ſhould <hi>curſe, ſwear, whore,</hi> and <hi>cry,</hi>
+               </l>
+               <l>'Tis a delight to <hi>Heavens Majeſty!</hi>
+               </l>
+               <l>The <hi>Devill</hi> durſt ne'er <hi>declaim</hi> on ſuch a <hi>theme,</hi>
+               </l>
+               <l>To prove it <hi>pure</hi> religion to <hi>blaſpheme.</hi>
+               </l>
+               <l>Oh, that a man ii ſin ſhould take his ſwing,</l>
+               <l>
+                  <pb n="5" facs="tcp:118490:4"/>
+                  <!-- PDF PAGE 49 -->
+And mock at judgement, ſay there's no ſuch thing!</l>
+               <l>The <hi>Devill</hi> dares not, will not this denay,</l>
+               <l>But <hi>trembles</hi> and beleeves a <hi>Judgement day.</hi>
+               </l>
+               <l>Oh, that a man dares call without all fear,</l>
+               <l>Gods precepts, <hi>bondage,</hi> and his Law <hi>ſevere;</hi>
+               </l>
+               <l>The Devill ne'er Gods Lawes durſt dare to fame</l>
+               <l>Illegall, though a rebell to the ſame.</l>
+               <l>O wofull <hi>England!</hi> who e're thought to ſee</l>
+               <l>Such <hi>wretches born,</hi> and <hi>monſters bred</hi> in thee!</l>
+               <l>But are there any ſuch? Yea, ſuch are <hi>theſe</hi>
+               </l>
+               <l>
+                  <hi>Ranters,</hi> or <hi>Rakehels,</hi> call them which you pleaſe.</l>
+               <l>A <hi>Ranter!</hi> what is he? one that lives in</l>
+               <l>All wickedneſſe, and ſaith he cannot ſin:</l>
+               <l>Hee's one that bluſheth not, but in the light</l>
+               <l>
+                  <hi>Declares his ſin</hi> like to a <hi>Sodomite.</hi>
+               </l>
+               <l>Hee's one that ſaith there's neither <hi>Heaven</hi> nor <hi>Hell,</hi>
+               </l>
+               <l>Prepared for a <hi>Saint</hi> or <hi>Infidell:</hi>
+               </l>
+               <l>He ſpurnes the <hi>Bible,</hi> and he doth deny</l>
+               <l>To <hi>Chriſt</hi> his kingly Soveraignty.</l>
+               <l>His Ordinances and his Lawes ſo juſt,</l>
+               <l>He <hi>barks</hi> at theſe, becauſe they <hi>bite</hi> his luſt:</l>
+               <l>To holineſſe and Goſpell walking he</l>
+               <l>Equals the <hi>Devill</hi> for an enemy.</l>
+               <l>Hee'l <hi>ſwear,</hi> and <hi>curſe,</hi> and <hi>drink,</hi> and hath the face</l>
+               <l>To boaſt of theſe as <hi>Characters</hi> of <hi>Grace:</hi>
+               </l>
+               <l>When he <hi>blaſphemes</hi> the moſt, he dares expreſſe</l>
+               <l>That God doth <hi>act</hi> him in his <hi>wickedneſſe.</hi>
+               </l>
+               <l>Hee's one that would all <hi>civill right</hi> deſtroy,</l>
+               <l>And turn all to a <hi>ſtrange community,</hi>
+               </l>
+               <l>With each mans intereſt hee'l have to doe,</l>
+               <l>His <hi>goods,</hi> his <hi>wife,</hi> his <hi>maid,</hi> and <hi>daughter</hi> too.</l>
+               <l>
+                  <pb n="6" facs="tcp:118490:5"/>
+                  <!-- PDF PAGE 50 -->
+Hee's one that hath attain'd the high'ſt degree</l>
+               <l>In Satans <hi>Schoole,</hi> Hels <hi>Univerſitie.</hi>
+               </l>
+               <l>Forgetting God this wretch becometh then</l>
+               <l>The <hi>pride</hi> of <hi>Devils,</hi> and the <hi>ſhame</hi> of <hi>men.</hi>
+               </l>
+               <l>When he and his <hi>fraternity</hi> do meet,</l>
+               <l>'Twould make a man amaz'd to hear them greet,</l>
+               <l>With <hi>woulds,</hi> and <hi>bloud,</hi> thou <hi>devill, dog,</hi> thou <hi>whore,</hi>
+               </l>
+               <l>This is their language, and a deal ſuch more:</l>
+               <l>Theſe ſalutations paſt, they do not fail</l>
+               <l>To call for <hi>Wine, Tobacco, Beer</hi> and <hi>Ale;</hi>
+               </l>
+               <l>Theſe being the <hi>ſpirits</hi> they'r <hi>inſpir'd</hi> by,</l>
+               <l>Half <hi>drunk,</hi> half <hi>mad,</hi> each hath his <hi>propheſie:</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>A firſt ſtands up and doth relate</l>
+               <l>That he from Heaven is ſent,</l>
+               <l>To cry down both in <hi>Church</hi> and <hi>State,</hi>
+               </l>
+               <l>All <hi>formes,</hi> and <hi>government.</hi>
+               </l>
+               <l>Pack <hi>Miniſters</hi> and <hi>Magiſtrates,</hi>
+               </l>
+               <l>We will have no <hi>ſuch things,</hi>
+               </l>
+               <l>We <hi>Ranters</hi> are <hi>ſole Potentates,</hi>
+               </l>
+               <l>Both <hi>Prophets, Prieſts,</hi> and <hi>Kings.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>There is no <hi>ſin,</hi> another cries,</l>
+               <l>This thing call'd <hi>righteouſneſse,</hi>
+               </l>
+               <l>Is but a <hi>trick</hi> that ſome deviſe,</l>
+               <l>Our freedome to ſuppreſſe.</l>
+               <l>Then let's be <hi>free,</hi> in <hi>jollitrie</hi>
+               </l>
+               <l>Let all our time be ſpent;</l>
+               <l>Hee's but a <hi>Daw,</hi> that ſtands in awe</l>
+               <l>Of a <hi>Commandement.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:118490:5"/>
+               <!-- PDF PAGE 50 -->
+               <l>There is no <hi>Hell,</hi> another cries,</l>
+               <l>This is a fancy cleare;</l>
+               <l>Nor is there any place of joyes</l>
+               <l>Call'd <hi>Heaven</hi> but what is here;</l>
+               <l>Then let's dance round and tear the ground,</l>
+               <l>And <hi>gig</hi> it whileſt we may,</l>
+               <l>We will not fear, although we hear</l>
+               <l>
+                  <hi>Tales</hi> of a judgement day.</l>
+            </lg>
+            <lg>
+               <l>Thus they proceed in ſpeaking till each one</l>
+               <l>Hath told his <hi>helliſh revelation.</hi>
+               </l>
+               <l>When theſe are paſt, then to ſuch <hi>pranks</hi> they fall</l>
+               <l>As if there were <hi>indeed</hi> no <hi>Judge</hi> at all,</l>
+               <l>No <hi>ear</hi> to <hi>hear,</hi> no <hi>eye</hi> that e're diſcries</l>
+               <l>Their <hi>ſordid words,</hi> and foul <hi>adulteries.</hi>
+               </l>
+               <l>'Tis ſhame to tell what theſe both doe, and ſay</l>
+               <l>Not in a <hi>ſecret,</hi> but an <hi>open way.</hi>
+               </l>
+               <l>Here's <hi>dancing, tumbling, ſwearing,</hi> as there were</l>
+               <l>No <hi>men,</hi> nor <hi>women,</hi> but all <hi>Devils</hi> there;</l>
+               <l>No <hi>God,</hi> no <hi>good,</hi> no <hi>ſin,</hi> no <hi>hell,</hi> no <hi>bliſſe,</hi>
+               </l>
+               <l>O tremble heaven, and hell, and earth at this!</l>
+               <l>And tremble <hi>Ranters,</hi> tremble at your ſtate,</l>
+               <l>And ſee your ſin before it be too late:</l>
+               <l>Naked before the Lord your folly lies,</l>
+               <l>You cannot cheat him with your <hi>Mysteries,</hi>
+               </l>
+               <l>Nor yet the world, for all men now conclude,</l>
+               <l>The <hi>Atheiſt</hi> reigns in all your <hi>multitude.</hi>
+               </l>
+            </lg>
+            <bibl>I. F.</bibl>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
